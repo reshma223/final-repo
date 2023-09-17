@@ -1,0 +1,64 @@
+.navbar6 {
+  height: 100%;
+  width: 100%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: #ecd9d9;
+}
+.home8,
+.navbar6,
+.petition9 {
+  position: absolute;
+  top: 0;
+}
+.home8 {
+  left: 0;
+  cursor: pointer;
+}
+.petition9 {
+  left: 115px;
+}
+.contact-us8,
+.gov-support8,
+.insurance17 {
+  position: absolute;
+  top: 0;
+  left: 253px;
+  cursor: pointer;
+}
+.contact-us8,
+.gov-support8 {
+  left: 416px;
+}
+.contact-us8 {
+  left: 610px;
+}
+.nav-item7 {
+  margin: 0;
+  position: absolute;
+  top: 49px;
+  left: 373px;
+  width: 720px;
+  height: 24px;
+  text-align: left;
+  font-size: 20px;
+  color: #01a98c;
+  font-family: Inter;
+}
+.logo-small-icon7 {
+  position: absolute;
+  top: 0;
+  left: 22px;
+  width: 180px;
+  height: 114.78px;
+  object-fit: cover;
+}
+.navbar5 {
+  margin: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 1440px;
+  height: 125px;
+}

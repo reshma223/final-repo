@@ -1,0 +1,230 @@
+.navbar1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ecd9d9;
+  width: 1440px;
+  height: 125px;
+}
+.logo-small-icon2 {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  width: 165.3px;
+  height: 105.41px;
+  object-fit: cover;
+}
+.nepal-insurance2 {
+  margin: 0;
+  position: absolute;
+  top: 143px;
+  left: 590px;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #01a98c;
+}
+.home3,
+.petition2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 62.67px;
+  cursor: pointer;
+}
+.petition2 {
+  left: 124.26px;
+  width: 82.12px;
+}
+.insurance2 {
+  left: 273.38px;
+  display: inline-block;
+  width: 105.89px;
+}
+.contact-us2,
+.gov-support2,
+.insurance2 {
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+}
+.gov-support2 {
+  left: 449.51px;
+  display: inline-block;
+  width: 133.99px;
+}
+.contact-us2 {
+  left: 659.14px;
+}
+.nav-item2 {
+  margin: 0;
+  position: absolute;
+  top: 63px;
+  left: 393px;
+  width: 769.14px;
+  height: 24px;
+  text-align: left;
+  font-size: 20px;
+  color: #01a98c;
+  font-family: Inter;
+}
+.rating-child5 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #f2eaea;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 893px;
+  height: 653px;
+}
+.number-of-livestock,
+.sum-insured {
+  position: absolute;
+  top: 137px;
+  left: 87px;
+}
+.sum-insured {
+  top: 247px;
+}
+.amount-need-to,
+.plan-name,
+.rating6 {
+  position: absolute;
+  top: 19px;
+  left: 87px;
+}
+.amount-need-to,
+.rating6 {
+  top: 357px;
+}
+.rating6 {
+  top: 316px;
+  left: 317px;
+  width: 893px;
+  height: 653px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}
+.livestock-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #01a98c;
+  width: 298px;
+  height: 69px;
+}
+.livestock2 {
+  position: absolute;
+  top: 20px;
+  left: 96px;
+  font-size: 24px;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: left;
+}
+.livestock1 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 219px;
+  left: 612px;
+  width: 298px;
+  height: 69px;
+}
+.cost-calculation-child,
+.cost-calculation-item {
+  border: 1px solid #000;
+  position: absolute;
+  top: 495px;
+  left: 404px;
+  background-color: #fff;
+  box-sizing: border-box;
+  width: 735px;
+  height: 56px;
+}
+.cost-calculation-item {
+  top: 379px;
+}
+.b,
+.livestock3 {
+  position: absolute;
+  top: 393px;
+  left: 429px;
+}
+.b {
+  top: 509px;
+}
+.cost-calculation-inner,
+.rectangle-textarea {
+  border: 1px solid #000;
+  background-color: #fff;
+  height: 56px;
+  width: 735px;
+  position: absolute;
+  top: 608px;
+  left: 404px;
+  box-sizing: border-box;
+}
+.rectangle-textarea {
+  top: 717px;
+}
+.b1,
+.of-80000 {
+  position: absolute;
+  left: 424px;
+}
+.of-80000 {
+  top: 731px;
+  color: #a99c9c;
+}
+.b1 {
+  top: 622px;
+}
+.cost-calculation-child1 {
+  position: absolute;
+  top: 805px;
+  left: 678px;
+  border-radius: 20px;
+  background-color: #01a98c;
+  width: 165px;
+  height: 46px;
+}
+.calculate {
+  position: absolute;
+  top: 814px;
+  left: 708px;
+  color: #fff;
+}
+.cost-calculation-child2 {
+  position: absolute;
+  top: 865px;
+  left: 549px;
+  border-radius: 20px;
+  background-color: rgba(157, 226, 193, 0.81);
+  width: 446px;
+  height: 55px;
+}
+.calculated-cost-4000 {
+  position: absolute;
+  top: 878px;
+  left: 649px;
+}
+.cost-calculation {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}

@@ -1,0 +1,279 @@
+.navbar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ecd9d9;
+  width: 1440px;
+  height: 125px;
+}
+.logo-small-icon1 {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  width: 165.3px;
+  height: 105.41px;
+  object-fit: cover;
+}
+.nepal-insurance1 {
+  position: absolute;
+  top: 143px;
+  left: 590px;
+  font-size: 48px;
+  color: #01a98c;
+}
+.home2,
+.petition1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 62.67px;
+  cursor: pointer;
+}
+.petition1 {
+  left: 124.26px;
+  width: 82.12px;
+}
+.insurance1 {
+  left: 273.38px;
+  display: inline-block;
+  width: 105.89px;
+}
+.contact-us1,
+.gov-support1,
+.insurance1 {
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+}
+.gov-support1 {
+  left: 449.51px;
+  display: inline-block;
+  width: 133.99px;
+}
+.contact-us1 {
+  left: 659.14px;
+}
+.nav-item1 {
+  margin: 0;
+  position: absolute;
+  top: 63px;
+  left: 393px;
+  width: 769.14px;
+  height: 24px;
+  text-align: left;
+  font-size: 20px;
+  color: #01a98c;
+  font-family: Inter;
+}
+.rating-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #f2eaea;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1440px;
+  height: 106px;
+}
+.rating,
+.schemes {
+  position: absolute;
+  top: 39px;
+  left: 47px;
+}
+.rating {
+  top: 353px;
+  left: 0;
+  width: 1440px;
+  height: 106px;
+}
+.rating-child1,
+.rating-child2,
+.rating-inner,
+.star-icon {
+  position: absolute;
+  top: 39px;
+  left: 592.03px;
+  width: 42px;
+  height: 40px;
+}
+.rating-child1,
+.rating-child2,
+.star-icon {
+  left: 774.03px;
+}
+.rating-child1,
+.rating-child2 {
+  left: 714.03px;
+}
+.rating-child2 {
+  left: 647.03px;
+}
+.rating1,
+.rectangle-div {
+  position: absolute;
+  top: 229px;
+  left: -1px;
+  width: 1440px;
+  height: 106px;
+}
+.rectangle-div {
+  top: 0;
+  left: 1px;
+  background-color: #f2eaea;
+  border: 1px solid #000;
+  box-sizing: border-box;
+}
+.guidance {
+  position: absolute;
+  top: 39px;
+  left: 48px;
+}
+.contact,
+.legal-contract {
+  position: absolute;
+  top: 41px;
+  left: 47px;
+}
+.contact {
+  top: 38px;
+}
+.button-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #01a98c;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 355px;
+  height: 83px;
+}
+.text-submit {
+  position: absolute;
+  top: 22px;
+  left: 24px;
+  display: inline-block;
+  width: 248.57px;
+}
+.submit-button {
+  position: absolute;
+  top: 173px;
+  left: 599px;
+  width: 355px;
+  height: 83px;
+  cursor: pointer;
+  font-size: 32px;
+  color: #fff;
+}
+.rating5 {
+  position: absolute;
+  top: 127px;
+  left: 1px;
+  width: 1440px;
+  height: 256px;
+}
+.rating3,
+.rating4 {
+  position: absolute;
+  top: 124px;
+  left: 0;
+  width: 1441px;
+  height: 383px;
+}
+.rating3 {
+  top: 477px;
+  left: -1px;
+  height: 507px;
+}
+.lorem-ipsum-dolor {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container {
+  position: absolute;
+  top: 749px;
+  left: 599px;
+}
+.lorem-ipsum-dolor-container1 {
+  position: absolute;
+  top: 624px;
+  left: 590px;
+}
+.lorem-ipsum-dolor-container2,
+.vector-icon {
+  position: absolute;
+  top: 506px;
+  left: 590px;
+}
+.vector-icon {
+  height: 2.37%;
+  width: 1.68%;
+  top: 90.82%;
+  right: 35.96%;
+  bottom: 6.81%;
+  left: 62.36%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.nepal-insurance-child,
+.nepal-insurance-item {
+  position: absolute;
+  top: 372px;
+  border-radius: 20px;
+  background-color: #01a98c;
+  width: 298px;
+  height: 69px;
+}
+.nepal-insurance-child {
+  left: 590px;
+  cursor: pointer;
+}
+.nepal-insurance-item {
+  left: 933px;
+}
+.crop,
+.livestock {
+  position: absolute;
+  top: 392px;
+  left: 686px;
+  color: #fff;
+}
+.crop {
+  left: 1055px;
+}
+.group-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #01a98c;
+  width: 148px;
+  height: 66px;
+}
+.claim {
+  position: absolute;
+  top: 12px;
+  left: 42px;
+}
+.rectangle-parent {
+  position: absolute;
+  top: 375px;
+  left: 1267px;
+  width: 148px;
+  height: 66px;
+  cursor: pointer;
+  color: #fff;
+}
+.nepal-insurance {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}

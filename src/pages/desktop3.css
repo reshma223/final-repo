@@ -1,0 +1,279 @@
+.nav-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ecd9d9;
+  width: 100%;
+  height: 125px;
+}
+.logo-small-icon6 {
+  position: absolute;
+  top: 9.1px;
+  left: 30px;
+  width: 162px;
+  height: 103.3px;
+  object-fit: cover;
+}
+.gov-container {
+  position: absolute;
+  top: 125px;
+  left: -55px;
+  background-color: #d9d9d9;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1600px;
+  height: 76px;
+}
+.gov-support6 {
+  margin: 0;
+  position: absolute;
+  top: 122px;
+  left: 32px;
+  font-size: 32px;
+  font-weight: 700;
+  font-family: "Inknut Antiqua";
+  color: #01a98c;
+}
+.searchbar-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #fff;
+  width: 482px;
+  height: 60px;
+}
+.search,
+.vector-icon5 {
+  position: absolute;
+  top: 16px;
+  left: 82px;
+}
+.vector-icon5 {
+  height: 41.67%;
+  width: 5.19%;
+  top: 28.33%;
+  right: 90.87%;
+  bottom: 30%;
+  left: 3.94%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.searchbar {
+  position: absolute;
+  top: 133px;
+  left: 934px;
+  width: 482px;
+  height: 60px;
+  color: #726e6e;
+}
+.municiple,
+.province {
+  position: absolute;
+  top: 0;
+  left: 161px;
+}
+.municiple {
+  left: 0;
+}
+.gov-nav,
+.ministry {
+  position: absolute;
+  top: 3px;
+  left: 312px;
+}
+.gov-nav {
+  top: 155px;
+  left: 446px;
+  width: 403px;
+  height: 32px;
+}
+.notice1-child,
+.notice2,
+.notice3,
+.notice4,
+.notice5 {
+  position: absolute;
+  left: 0;
+  background-color: #efe9e9;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 1600px;
+  height: 167px;
+}
+.notice5 {
+  top: 869px;
+  opacity: 0.6;
+}
+.notice1-child,
+.notice2,
+.notice3,
+.notice4 {
+  top: 702px;
+}
+.notice1-child,
+.notice2,
+.notice3 {
+  top: 535px;
+}
+.notice1-child,
+.notice2 {
+  top: 368px;
+}
+.notice1-child {
+  top: 0;
+}
+.notice1-item {
+  position: absolute;
+  top: 7.46px;
+  left: 0;
+  width: 74px;
+  height: 69.54px;
+}
+.volutpat-turpis-diam {
+  margin: 0;
+}
+.lorem-ipsum-dolor-container3 {
+  position: absolute;
+  top: 0;
+  left: 168px;
+}
+.notice1-inner,
+.notice11 {
+  position: absolute;
+  top: 31px;
+  left: 37px;
+  width: 1341px;
+  height: 87px;
+}
+.notice1-inner {
+  top: 13px;
+  left: 2px;
+  width: 69.17px;
+  height: 65px;
+}
+.lorem-ipsum-dolor-container4 {
+  position: absolute;
+  top: 0;
+  left: 174px;
+}
+.group-icon,
+.notice1-child1 {
+  position: absolute;
+  top: 23px;
+  left: 16px;
+  width: 72.36px;
+  height: 68px;
+}
+.notice1-child1 {
+  left: 2px;
+  width: 83px;
+  height: 78px;
+}
+.lorem-ipsum-dolor-container6 {
+  position: absolute;
+  top: 0;
+  left: 162px;
+  display: inline-block;
+  width: 1173px;
+  height: 103px;
+}
+.notice1-child2,
+.notice16 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 77.68px;
+  height: 73px;
+}
+.notice16 {
+  top: 172px;
+  width: 1347px;
+  height: 87px;
+}
+.notice12,
+.notice13,
+.notice14,
+.notice15 {
+  position: absolute;
+  top: 165px;
+  left: 0;
+  width: 1347px;
+  height: 259px;
+}
+.notice12,
+.notice13,
+.notice14 {
+  top: 163px;
+  height: 424px;
+}
+.notice12,
+.notice13 {
+  top: 0;
+  height: 587px;
+}
+.notice12 {
+  top: 211px;
+  left: 30px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: Inter;
+}
+.notice1 {
+  position: absolute;
+  top: 201px;
+  left: 0;
+  width: 1440px;
+  height: 798px;
+}
+.home7,
+.petition8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  cursor: pointer;
+}
+.petition8 {
+  left: 115px;
+}
+.contact-us7,
+.gov-support7,
+.insurance16 {
+  position: absolute;
+  top: 0;
+  left: 253px;
+  cursor: pointer;
+}
+.contact-us7,
+.gov-support7 {
+  left: 416px;
+}
+.contact-us7 {
+  left: 610px;
+}
+.govsupport,
+.nav-item6 {
+  text-align: left;
+  font-family: Inter;
+}
+.nav-item6 {
+  margin: 0;
+  position: absolute;
+  top: 49px;
+  left: 360px;
+  width: 720px;
+  height: 15px;
+  font-size: 20px;
+  color: #01a98c;
+}
+.govsupport {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  font-size: 24px;
+  color: #000;
+}

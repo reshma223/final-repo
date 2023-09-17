@@ -1,0 +1,109 @@
+.logo-big-icon1 {
+  position: absolute;
+  top: 225px;
+  left: 84px;
+  width: 548px;
+  height: 434.3px;
+  object-fit: cover;
+}
+.container {
+  position: absolute;
+  top: 119px;
+  left: 738px;
+  border-radius: 20px;
+  background-color: #efe9e9;
+  width: 650px;
+  height: 689px;
+}
+.citizenship-number,
+.password,
+.username {
+  position: absolute;
+  top: 285px;
+  left: 776px;
+}
+.password,
+.username {
+  top: 154px;
+}
+.password {
+  top: 411px;
+}
+.confirm-password,
+.sign-up-as {
+  position: absolute;
+  top: 543px;
+  left: 776px;
+}
+.sign-up-as {
+  top: 16px;
+  left: 879px;
+  font-size: 40px;
+  font-family: "Inknut Antiqua";
+  color: #01a98c;
+}
+.citizenship,
+.confirm,
+.password1,
+.user {
+  width: 570px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 333px;
+  left: 776px;
+}
+.confirm,
+.password1,
+.user {
+  top: 202px;
+}
+.confirm,
+.password1 {
+  top: 593px;
+}
+.password1 {
+  top: 460px;
+}
+.signup-button1 {
+  width: 176px;
+  position: absolute;
+  top: 686px;
+  left: 980px;
+  cursor: pointer;
+}
+.log-in {
+  font-weight: 700;
+}
+.already-have-an-container {
+  position: absolute;
+  top: 777px;
+  left: 910px;
+  font-size: 20px;
+  color: #000;
+  cursor: pointer;
+}
+.vector-icon2 {
+  position: absolute;
+  height: 3.52%;
+  width: 2.5%;
+  top: 3.13%;
+  right: 94.17%;
+  bottom: 93.36%;
+  left: 3.33%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  cursor: pointer;
+}
+.signup-farmer {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 32px;
+  color: #6d5c5c;
+  font-family: "Inria Serif";
+}

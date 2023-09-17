@@ -1,0 +1,238 @@
+#nav-bar {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #ecd9d9;
+  width: 1600px;
+  height: 125px;
+}
+.logo-small-icon5 {
+  position: absolute;
+  top: 10px;
+  left: 25px;
+  width: 8rem;
+  height: 4rem;
+  object-fit: cover;
+}
+.nepal-insurance3 {
+  margin: 0;
+  position: absolute;
+  top: 143px;
+  left: 590px;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #01a98c;
+}
+.home6,
+.petition7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+  width: 62.67px;
+  cursor: pointer;
+}
+.petition7 {
+  left: 124.26px;
+  width: 82.12px;
+}
+.insurance15 {
+  left: 273.38px;
+  display: inline-block;
+  width: 105.89px;
+}
+.contact-us6,
+.gov-support5,
+.insurance15 {
+  position: absolute;
+  top: 0;
+  cursor: pointer;
+}
+.gov-support5 {
+  left: 449.51px;
+  display: inline-block;
+  width: 133.99px;
+}
+.contact-us6 {
+  left: 659.14px;
+}
+#nav {
+  margin: 0;
+  position: absolute;
+  top: 63px;
+  left: 393px;
+  width: 769.14px;
+  height: 15px;
+  text-align: left;
+  font-size: 15px;
+  color: #01a98c;
+  font-family: Inter;
+}
+.vector-icon4 {
+  position: absolute;
+  height: 2.37%;
+  width: 1.68%;
+  top: 90.82%;
+  right: 32.9%;
+  bottom: 6.81%;
+  left: 65.42%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.claim-calculation-child {
+  position: absolute;
+  top: 227px;
+  left: 603px;
+  border-radius: 20px;
+  width: 298px;
+  height: 69px;
+}
+.of-sum-insured {
+  position: absolute;
+  top: 538px;
+  left: 382px;
+}
+.claim-calculator,
+.livestock4 {
+  position: absolute;
+  top: 392px;
+  left: 731px;
+  color: #fff;
+}
+.claim-calculator {
+  top: 247px;
+  left: 666px;
+}
+.rating-child6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #f2eaea;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 893px;
+  height: 531px;
+}
+.major-injury,
+.minor-injury {
+  left: 83px;
+  display: inline-block;
+  height: 23.58px;
+}
+.major-injury {
+  position: absolute;
+  top: 117px;
+  width: 141px;
+}
+.minor-injury {
+  top: 229px;
+  width: 143px;
+}
+.death,
+.minor-injury,
+.rating7 {
+  position: absolute;
+}
+.death {
+  top: 15.45px;
+  left: 87px;
+  display: inline-block;
+  width: 73px;
+  height: 23.58px;
+}
+.rating7 {
+  top: 383px;
+  left: 293px;
+  width: 893px;
+  height: 531px;
+  text-align: left;
+  font-size: 24px;
+  color: #000;
+  font-family: "Inria Serif";
+}
+.input-text-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  border: 1px solid #000;
+  box-sizing: border-box;
+  width: 735px;
+  height: 56px;
+}
+.input-text,
+.of-sum-insured1 {
+  position: absolute;
+  top: 17px;
+  left: 11px;
+}
+.input-text {
+  top: 438px;
+  left: 372px;
+  width: 735px;
+  height: 56px;
+}
+.of-sum-insured2 {
+  position: absolute;
+  top: 14px;
+  left: 14px;
+}
+.input-text2,
+.input-text3 {
+  position: absolute;
+  top: 543px;
+  left: 372px;
+  width: 735px;
+  height: 56px;
+}
+.input-text3 {
+  border: 0;
+  display: block;
+  font-family: "Inria Serif";
+  font-size: 24px;
+  background-color: transparent;
+  top: 648px;
+}
+.claim-button-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 20px;
+  background-color: #01a98c;
+  width: 298px;
+  height: 69px;
+}
+.calculator-claim {
+  position: absolute;
+  top: 22px;
+  left: 58px;
+  font-size: 24px;
+  font-family: "Inria Serif";
+  color: #fff;
+  text-align: left;
+}
+.claim-button {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 743px;
+  left: 591px;
+  width: 298px;
+  height: 69px;
+}
+.claim-calculation {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #a7a1a1;
+  font-family: "Inria Serif";
+}

@@ -1,0 +1,138 @@
+.petition6 {
+  margin: 0;
+  position: absolute;
+  top: 166px;
+  left: 611px;
+  font-size: 48px;
+  font-weight: 700;
+  font-family: inherit;
+  color: #01a98c;
+}
+.container5 {
+  position: absolute;
+  top: 242px;
+  left: 380px;
+  border-radius: 20px;
+  background-color: #f8f4f4;
+  border: 1px solid #01a98c;
+  box-sizing: border-box;
+  width: 679px;
+  height: 613px;
+}
+.wrapper1 {
+  width: 570px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.full-name1 {
+  margin: 0;
+  position: absolute;
+  top: 14px;
+  left: 10px;
+  font-size: 20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.fullname,
+.wrapper2 {
+  width: 570px;
+  position: absolute;
+}
+.fullname {
+  top: 277px;
+  left: 435px;
+  height: 66px;
+}
+.wrapper2 {
+  top: 0;
+  left: 0;
+}
+.explain-issue1 {
+  margin: 0;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  font-size:  20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.explain-issue {
+  top: 563px;
+  left: 435px;
+  width: 570px;
+  height: 173px;
+}
+.explain-issue,
+.issue,
+.issue1 {
+  position: absolute;
+}
+.issue1 {
+  margin: 0;
+  top: 0px;
+  left: 20px;
+  font-size:  20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.issue {
+  top: 479px;
+  left: 435px;
+  width: 570px;
+  height: 66px;
+}
+.citizenship-number1 {
+  margin: 0;
+  position: absolute;
+  top: 14px;
+  left: 19px;
+  font-size:  20px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.ciitizen-number {
+  position: absolute;
+  top: 384px;
+  left: 435px;
+  width: 570px;
+  height: 66px;
+}
+.submit-box {
+  width: 238px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.submit-button3,
+.submit1 {
+  position: absolute;
+  top: 2px;
+  left: 56px;
+}
+.submit-button3 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 764px;
+  left: 611px;
+  width: 238px;
+  height: 69px;
+}
+.petition5 {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1024px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 24px;
+  color: #8b8383;
+  font-family: "Inria Serif";
+}
+.form-control{
+  height:50px;
+}
